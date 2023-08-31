@@ -26,10 +26,17 @@
         
     </table>
      
-<a href="https://www.youtube.com/?gl=BR&hl=PT"> <ol><li>youtube</li></ol></a>
+<ol>
+    <li>
+        <a href="https://www.youtube.com/?gl=BR&hl=PT"> youtube</a>
+    </li>
 
-<img src="https://lh3.googleusercontent.com/p/AF1QipO-bOP_xEdm1EgusTdNs78CpaNM17EAY4fkv9Tq=w1080-h608-p-no-v0" alt=""
-width="500px">  
+    <li>
+        <img src="https://lh3.googleusercontent.com/p/AF1QipO-bOP_xEdm1EgusTdNs78CpaNM17EAY4fkv9Tq=w1080-h608-p-no-v0" alt="Logo Uninassau"
+        width="500px"
+        height="250px">
+    </li>
+</ol> 
 
 </body>
 </html>
