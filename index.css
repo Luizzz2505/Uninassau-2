@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+}
+
+button{
+    display:inline-block;
+    margin-right: 12px ;
+    margin-left: 15px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: #c0c0c0;
+    
+}
+
+.cabecalho{
+    padding: 25px 0;
+    border-bottom: 3px solid #ffff;
+}
+
+.textos{
+    width: 800px; 
+}
